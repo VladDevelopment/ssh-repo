@@ -1,3 +1,19 @@
 body {
     margin: 0;
 }
+
+.title {
+    font-size: 30px;
+    color: red;
+}
+
+.container {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid red;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    flex-direction: column;
+}
